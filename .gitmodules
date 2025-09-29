@@ -1,3 +1,6 @@
 [submodule "repositoryTemplate8"]
 	path = repositoryTemplate8
 	url = https://github.com/SectionOne/repositoryTemplate8.git
+[submodule "repository-template"]
+	path = repository-template
+	url = https://github.com/Yuta-chan/repository-template.git
